@@ -1,0 +1,16 @@
+{
+    "name": "dragonblack/yii2-websocket",
+    "description": "WebSocket server for Yii2",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "2.*",
+        "dragonblack/phpwebsocket": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Cheryachukin",
+            "email": "dev.cheryachukin@gmail.com"
+        }
+    ]
+}
