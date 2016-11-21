@@ -12,5 +12,10 @@
             "name": "Sergey Cheryachukin",
             "email": "dev.cheryachukin@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "dragonblack\\yii2websocket\\": ""
+        }
+    }
 }
